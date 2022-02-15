@@ -36,6 +36,12 @@ const exampleList: IExample[] = [
     description: "Render 3D map by Threebox-plugin",
     path: "/render-3d",
   },
+  {
+    id: "vallaris-3d",
+    title: "vallaris 3D Map",
+    description: "Render 3D map by vallaris",
+    path: "/vallaris-3d",
+  },
 ];
 
 const Home: NextPage = () => {
